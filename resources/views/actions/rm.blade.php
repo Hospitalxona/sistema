@@ -1,0 +1,1 @@
+<a href="{{route('modimotivo', $Id_receta)}}" class="btn btn-primary btn-sm">Revisar</a>

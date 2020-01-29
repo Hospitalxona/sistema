@@ -1,0 +1,24 @@
+.ulCLass {
+	width: 412px;
+	border: 1px solid #eaeaea;
+	position: absolute;
+	z-index: 9;
+	background: #ffffff;
+	list-style: none;
+	margin-left: 0px;
+    margin-top: -2px;
+    height: 20%; 
+    overflow: auto;
+    margin-bottom: 0px;
+}
+.ulCLass dt {
+	padding: 2px;
+    
+}
+.ulCLass dt:hover {
+	background: #eaeaea;
+	font-weight: bold
+}
+#country_list_id {
+	display: none;
+}
